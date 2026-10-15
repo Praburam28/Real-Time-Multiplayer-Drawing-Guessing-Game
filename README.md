@@ -237,6 +237,9 @@ Choose a license before distributing this project publicly. If you select the MI
 
 ---
 
+👨‍💻 Author
+Praburam R
+
 <div align="center">
 
 **🎨 Built for creativity, collaboration, and fun.**
